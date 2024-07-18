@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5m9i8ez7vYqws+5EIBTM+sgMLPwrswj9nGHo3K5chBcL8Zk8XPfqgEfXkvk/UR6laSI45iVVBYyYp3Pk5GJPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anand.i\\OneDrive - Technovert\\Documents\\10-employee-directory-web-api-anandswaroopinedi\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anand.i\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\anand.i\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\anand.i\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\anand.i\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\anand.i\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
